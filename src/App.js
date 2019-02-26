@@ -17,9 +17,10 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React on changed feature branch
           </a>
         </header>
+        <p className="App-intro">I was changed on feature branch</p>
       </div>
     );
   }
